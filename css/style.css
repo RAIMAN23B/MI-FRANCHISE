@@ -1,0 +1,825 @@
+
+
+*{
+  margin: 0;
+  padding: 0;
+  outline: 0;
+}
+
+a,a:hover{
+  text-decoration: none;
+  /* display: inline-block; */
+}
+
+
+ul,ol{
+  list-style-type: none;
+}
+
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,p{
+  margin: 0;
+  padding: 0;
+  line-height: 0.8;
+}
+ 
+    /* Project Header Start*/
+
+
+
+   #Project{
+   padding-top: 300px;
+   padding-bottom: 280px;
+   background: #EFF3EA;
+   }
+
+
+   .TotalPart {
+    height: 120px;
+    width: 320px;
+    background: #A5BFCC;
+    border-radius: 15px;
+    margin-top: 40px;
+    margin-left: -760px;
+    }
+
+
+    .TotalPart h3{
+    font-size: 30px;
+    color: #E3F0AF;
+    padding-top: 15px;
+    margin-left: 80px;
+    padding-bottom: 40px;
+    font-family: "Playwrite IS", serif;
+    font-weight: 700;
+    }
+
+
+
+    .TotalPart h2{
+    font-size: 30px;
+    color: #E3F0AF;
+    margin-left: 2px;
+    font-family: "Playwrite IS", serif;
+    font-weight: 700;
+    margin-right: -50px;
+    }
+
+
+
+    .TotalPartOne {
+    height: 120px;
+    width: 320px;
+    background: #A5BFCC;
+    border-radius: 15px;
+    margin-top: -120px;
+    margin-left: 270px;
+    }
+    
+    
+
+
+    .TotalPartOne h3{
+    font-size: 30px;
+    color: #E3F0AF;
+    padding-top: 15px;
+    margin-left: 65px;
+    padding-bottom: 40px;
+    font-family: "Playwrite IS", serif;
+    font-weight: 700;
+    }
+    
+    
+    
+    .TotalPartOne h2{
+    font-size: 30px;
+    color: #E3F0AF;
+    margin-left: 74px;
+    font-family: "Playwrite IS", serif;
+    font-weight: 700;
+    margin-right: -50px;
+    }
+
+
+    .TotalPartTwo {
+    height: 120px;
+    width: 320px;
+    background: #A5BFCC;
+    border-radius: 15px;
+    margin-top: -120px;
+    margin-left: 205px;
+    }
+
+
+    .TotalPartTwo h3{
+    font-size: 30px;
+    color: #E3F0AF;
+    padding-top: 15px;
+    margin-left: 130px;
+    padding-bottom: 40px;
+    font-family: "Playwrite IS", serif;
+    font-weight: 700;
+    }
+        
+        
+        
+    .TotalPartTwo h2{
+    font-size: 30px;
+    color: #E3F0AF;
+    margin-left: 85px;
+    font-family: "Playwrite IS", serif;
+    font-weight: 700;
+    margin-right: -50px;
+    }
+
+
+    .TotalPartThree {
+    height: 120px;
+    width: 320px;
+    background: #A5BFCC;
+    border-radius: 15px;
+    margin-top: -120px;
+    margin-left: 135px;
+    }
+
+
+    .TotalPartThree h3{
+    font-size: 30px;
+    color: #E3F0AF;
+    padding-top: 15px;
+    margin-left: 110px;
+    padding-bottom: 40px;
+    font-family: "Playwrite IS", serif;
+    font-weight: 700;
+    }
+            
+            
+            
+    .TotalPartThree h2{
+    font-size: 30px;
+    color: #E3F0AF;
+    margin-left: 55px;
+    font-family: "Playwrite IS", serif;
+    font-weight: 700;
+    margin-right: -50px;
+    }
+
+
+
+    .Theatre h2 {
+    font-size: 60px;
+    color: #3E5879;
+    margin-top: -120px;
+    margin-left: 295px;
+    font-weight: 900;
+    font-family: "Pattaya", serif;
+    margin-right: -305px;
+    }
+    
+
+
+
+    .CountDownRelease h2 {
+    font-size: 60px;
+    color: #3E5879;
+    margin-top: 140px;
+    margin-left: 320px;
+    font-weight: 900;
+    font-family: "Pattaya", serif;
+    margin-right: -305px;
+    }
+
+
+
+
+
+    .CountDownPart {
+    height: 120px;
+    width: 320px;
+    background: #A5BFCC;
+    border-radius: 15px;
+    margin-top: 310px;
+    margin-left: -750px;
+    }
+    
+    
+
+
+    .CountDownPart h3{
+    font-size: 30px;
+    color: #E3F0AF;
+    padding-top: 15px;
+    margin-left: 125px;
+    padding-bottom: 36px;
+    font-family: "Playwrite IS", serif;
+    font-weight: 700;
+    }
+    
+    
+    
+    .CountDownPart h2{
+    font-size: 30px;
+    color: #E3F0AF;
+    margin-left: 110px;
+    font-family: "Playwrite IS", serif;
+    font-weight: 700;
+    margin-right: -50px;
+    }
+    
+    
+    
+    .CountDownOne {
+    height: 120px;
+    width: 320px;
+    background: #A5BFCC;
+    border-radius: 15px;
+    margin-top: -120px;
+    margin-left: 270px;
+    }
+        
+        
+    
+    
+    .CountDownOne h3{
+    font-size: 30px;
+    color: #E3F0AF;
+    padding-top: 15px;
+    margin-left: 155px;
+    padding-bottom: 40px;
+    font-family: "Playwrite IS", serif;
+    font-weight: 700;
+    }
+        
+        
+        
+    .CountDownOne h2{
+    font-size: 30px;
+    color: #E3F0AF;
+    margin-left: 122px;
+    font-family: "Playwrite IS", serif;
+    font-weight: 700;
+    margin-right: -50px;
+    }
+    
+    
+
+
+    .CountDownTwo {
+    height: 120px;
+    width: 320px;
+    background: #A5BFCC;
+    border-radius: 15px;
+    margin-top: -120px;
+    margin-left: 210px;
+    }
+    
+
+    
+    .CountDownTwo h3{
+    font-size: 30px;
+    color: #E3F0AF;
+    padding-top: 15px;
+    margin-left: 140px;
+    padding-bottom: 40px;
+    font-family: "Playwrite IS", serif;
+    font-weight: 700;
+    }
+            
+            
+            
+    .CountDownTwo h2{
+    font-size: 30px;
+    color: #E3F0AF;
+    margin-left: 100px;
+    font-family: "Playwrite IS", serif;
+    font-weight: 700;
+    margin-right: -50px;
+    }
+    
+
+    
+    .CountDownThree {
+    height: 120px;
+    width: 320px;
+    background: #A5BFCC;
+    border-radius: 15px;
+    margin-top: -120px;
+    margin-left: 150px;
+    }
+    
+    
+
+    .CountDownThree h3{
+    font-size: 30px;
+    color: #E3F0AF;
+    padding-top: 15px;
+    margin-left: 140px;
+    padding-bottom: 40px;
+    font-family: "Playwrite IS", serif;
+    font-weight: 700;
+    }
+                
+                
+                
+    .CountDownThree h2{
+    font-size: 30px;
+    color: #E3F0AF;
+    margin-left: 100px;
+    font-family: "Playwrite IS", serif;
+    font-weight: 700;
+    margin-right: -50px;
+    }
+    
+        
+
+
+    .PosterRelease h2 {
+    font-size: 60px;
+    color: #66785F;
+    margin-top: 140px;
+    margin-left: 345px;
+    font-weight: 900;
+    font-family: "Pattaya", serif;
+    margin-right: -305px;
+    }
+
+
+    .PosterPart {
+    height: 500px;
+    width: 320px;
+    background: #A5BFCC;
+    border-radius: 15px;
+    margin-top: 310px;
+    margin-left: -740px;
+    }
+
+
+    .PosterPart img {
+    width: 96%;
+    margin-top: 7px;
+    margin-left: 7px;
+    border-radius: 15px;
+    }
+
+
+
+
+    .PosterPartOne {
+    height: 500px;
+    width: 335px;
+    background: #A5BFCC;
+    border-radius: 15px;
+    margin-top: -500px;
+    margin-left: 255px;
+    }
+    
+    
+
+
+    .PosterPartOne img {
+    width: 95%;
+    margin-top: 6px;
+    margin-left: 9px;
+    border-radius: 15px;
+    }
+
+
+
+    .PosterPartTwo {
+    height: 500px;
+    width: 340px;
+    background: #A5BFCC;
+    border-radius: 15px;
+    margin-top: -500px;
+    margin-left: 198px;
+    }
+        
+        
+
+
+    .PosterPartTwo img {
+    width: 95%;
+    margin-top: 7px;
+    margin-left: 8px;
+    border-radius: 15px;
+    }
+
+
+
+
+    .PosterPartThree {
+    height: 500px;
+    width: 340px;
+    background: #A5BFCC;
+    border-radius: 15px;
+    margin-top: -500px;
+    margin-left: 145px;
+    }
+            
+            
+
+    .PosterPartThree img {
+    width: 97%;
+    margin-top: 7px;
+    margin-left: 6px;
+    border-radius: 15px;
+    }
+
+
+
+    .StuntRelease h2 {
+    font-size: 60px;
+    color: #6CBEC7;
+    margin-top: 160px;
+    margin-left: 250px;
+    font-weight: 900;
+    font-family: "Pattaya", serif;
+    margin-right: -400px;
+    }
+
+
+
+    .StuntPart{
+    height: 500px;
+    width: 340px;
+    background: #A5BFCC;
+    border-radius: 15px;
+    margin-top: 350px;
+    margin-left: -740px;
+    }
+    
+    
+
+    .StuntPart img {
+    width: 96%;
+    height: 97%;
+    margin-top: 7px;
+    margin-left: 7px;
+    border-radius: 15px;
+    }
+
+
+
+
+    .StuntPartOne {
+    height: 500px;
+    width: 335px;
+    background: #A5BFCC;
+    border-radius: 15px;
+    margin-top: -500px;
+    margin-left: 255px;
+    }
+        
+        
+    
+    
+    .StuntPartOne img {
+    width: 95%;
+    height: 97%;
+    margin-top: 6px;
+    margin-left: 9px;
+    border-radius: 15px;
+    }
+    
+    
+    
+    .StuntPartTwo {
+    height: 500px;
+    width: 340px;
+    background: #A5BFCC;
+    border-radius: 15px;
+    margin-top: -500px;
+    margin-left: 198px;
+    }
+            
+            
+    
+    
+    .StuntPartTwo img {
+    width: 95%;
+    height: 97%;
+    margin-top: 7px;
+    margin-left: 8px;
+    border-radius: 15px;
+    }
+    
+    
+    
+    
+    .StuntPartThree {
+    height: 500px;
+    width: 340px;
+    background: #A5BFCC;
+    border-radius: 15px;
+    margin-top: -500px;
+    margin-left: 145px;
+    }
+                
+    
+    
+
+    .StuntPartThree img {
+    width: 97%;
+    height: 97%;
+    margin-top: 7px;
+    margin-left: 6px;
+    border-radius: 15px;
+    }
+    
+    
+
+    .Franchise {
+    height: 150px;
+    width: 1880px;
+    border-radius: 15px;
+    background: #66785F;
+    margin-top: 160px;
+    margin-left: -280px;
+   }
+
+
+
+
+   .Franchise h2 {
+    font-size: 90px;
+    color: #F2E5BF;
+    padding-top: 40px;
+    margin-left: 60px;
+    font-weight: 900;
+    font-family: "Pattaya", serif;
+   }
+
+
+
+   .typed::after {
+    content: '|';
+    display: inline;
+    -webkit-animation: blink 0.7s infinite;
+    -moz-animation: blink 0.7s infinite;
+    animation: blink 0.7s infinite;
+    }
+  
+
+
+   /*Removes cursor that comes with typed.js*/
+
+
+   .typed-cursor{
+    opacity: 0;
+    display: none;
+    }
+
+
+
+   /*Custom cursor animation*/
+
+
+   @keyframes blink{
+    0% { opacity:1; }
+    50% { opacity:0; }
+    100% { opacity:1; }
+    }
+
+
+    @-webkit-keyframes blink{
+    0% { opacity:1; }
+    50% { opacity:0; }
+    100% { opacity:1; }
+    }
+
+
+    @-moz-keyframes blink{
+    0% { opacity:1; }
+    50% { opacity:0; }
+    100% { opacity:1; }
+    }
+  
+
+
+    .btns {
+    display: block;
+    width: 400px;
+    margin: 0;
+    padding: 30px 0 0 30px;
+    }
+
+
+
+   .btns a {
+    display: inline-block;
+    margin-left: 5px;
+    }
+
+
+
+   .btns a:first-child{margin-left:0}
+
+
+
+    .btn {
+    font-family: sans-serif;
+    font-size: 14px;
+    font-weight: 600;
+    color: #ecf0f1;
+    text-decoration: none;
+    }
+
+
+
+    a .btn {
+    cursor: pointer;
+    border: 1.5px solid #ecf0f1;
+    border-radius: 5px;
+    display: inline-block;
+    padding: 10px;
+    list-style-type: none;
+    transition: all .3s;
+    }
+  
+
+
+   .btn:hover {
+    background: #ecf0f1;
+    color: #34495e;
+    }
+
+
+
+   .typed{
+   color: #C96868;
+   }
+
+
+
+   
+
+
+
+
+    /* Project Header End*/
+
+
+
+
+
+    /* Slick Sliders Start */
+
+
+
+
+
+   .Premiere{
+    background:url(../images/MI\ 4P.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    margin-top: 100px;
+   }
+
+
+
+
+    .SlideShadow{
+    padding-top: 640px;
+    padding-bottom: 270px;
+    background: #bc9f8b4f;
+    }
+
+
+
+
+    .One{
+    background:url(../images/Mi\ .jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    }
+
+
+
+
+   .Two{
+    background:url(../images/MI\ 7R.jpeg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+   }
+
+
+   .Three{
+    background:url(../images/MI\ 5P.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+   }
+
+
+
+   .Four{
+    background:url(../images/MI\ 8.webp);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+   }
+
+
+
+   .Five{
+    background:url(../images/MI\ 6P.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+   }
+
+
+   .Six{
+    background:url(../images/MI\ 7P.webp);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+   }
+
+
+   .Seven{
+    background:url(../images/MI\ 8A.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+   }
+
+
+
+
+   .prev{
+    color: #E3F0AF;
+    font-size: 70px;
+    position: absolute;
+    top: 50%; 
+    left: 30px;
+    transform: translateY(-50%);
+    z-index: 999;
+   }
+
+
+
+   .next{
+    color: #E3F0AF;
+    font-size: 70px;
+    position: absolute;
+    top: 50%; 
+    right: 30px;
+    transform: translateY(-50%);
+   }
+
+
+
+
+
+
+    
+    /* Slick Sliders End */
+
+
+
+
+
+
+    /* Image Part Start */
+
+
+
+
+
+    #ImagePart{
+    background: url(../images/tom-cruise-mission-impossible-dead-reckoning-world-premiere.webp);
+    background-repeat: no-repeat;
+   background-position: center;
+   background-size: cover;
+    }
+
+
+    .ShadowPart{
+    background: #66785f6a;
+    padding-top: 1980px;
+    padding-bottom: 820px;
+    }
+
+
+    .PlayButton i{
+    font-size: 200px;
+    margin-left: 605px;
+    color: #4B5945;
+    }
+
+
+    .PlayButton{
+    margin-top: -1165px;
+    }
+
+
+    /* Image Part End */
