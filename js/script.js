@@ -91,7 +91,7 @@ $(function(){
     
 
     new VenoBox({
-      selector: '.my-custom-links',
+      selector: '.my-video-links',
   });
 
 
